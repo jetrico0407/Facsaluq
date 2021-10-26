@@ -1,0 +1,17 @@
+ion-content{
+  --background: #ededed;
+
+  ion-card{
+    margin-bottom: 10px;
+  }
+}
+
+ion-button{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+h5{
+  background-color: #ededed;
+}
